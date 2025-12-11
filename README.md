@@ -113,8 +113,8 @@ assets/
 #### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/dusova/flutter-motion-lab.git
-cd flutter-motion-lab
+git clone https://github.com/dusova/motionlab-flutter.git
+cd motionlab-flutter
 ```
 
 #### 2. Bağımlılıkları Yükleyin
@@ -304,7 +304,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👨‍💻 Geliştirici
 
-**Flutter Motion Lab** - Premium Flutter Animasyonları
+**Mustafa Arda Düşova** - Kırklareli Üniversitesi Bilgisayar Programcılığı 2. Sınıf Öğrencisi
 
 ---
 
